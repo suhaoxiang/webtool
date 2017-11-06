@@ -3,8 +3,8 @@ const cheerio=require('cheerio');
 
 
 
-exports.modules={
-    
+const hello=function(key){
+    console.log('hello world');
 }
 
-
+exports.hello=hello;

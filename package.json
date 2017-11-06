@@ -1,6 +1,6 @@
 {
   "name": "webtool",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "前端工具包",
   "main": "index.js",
   "scripts": {

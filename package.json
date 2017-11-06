@@ -1,0 +1,26 @@
+{
+  "name": "webtool",
+  "version": "1.0.0",
+  "description": "前端工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhaoxiang/webtool.git"
+  },
+  "keywords": [
+    "前端工具包"
+  ],
+  "author": "qiandutianxia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhaoxiang/webtool/issues"
+  },
+  "homepage": "https://github.com/suhaoxiang/webtool#readme",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
